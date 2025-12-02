@@ -1,0 +1,2 @@
+Total events: 557
+Average time between meteors: 309.7 seconds
